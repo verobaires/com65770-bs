@@ -42,7 +42,6 @@ nav {
     align-items: center;
     justify-content: space-around;
 }
-
 ul {
     list-style: none;
     display: flex;
@@ -50,70 +49,47 @@ ul {
     width: 60%;
     justify-content: space-around;
 }
-
 a {
     text-decoration: none;
     color: black;
 }
-
-ul li a,
-.nav-link.mi-estiloLinik {
+ul li a  {
     font-size: 1.5rem;
 }
-
-.offcanvas.offcanvas-end.mi-estiloNav {
-    width: 200px;
-}
-
 h1 {
     font-size: 3.25rem;
     font-weight: 600;
     text-align: center;
 }
-
 h2 {
     font-size: 2.75rem;
 }
-
 h3 {
     font-size: 2rem;
     text-align: center;
 }
-
 p {
     font-size: 1.25rem;
 }
-
 h1 .titulo {
     color: red;
     font-size: 3.15rem;
     font-style: italic;
 }
-
 .nosotros_titulo {
     text-transform: uppercase;
 }
-
 .slider {
     width: 100%;
 }
-
 .backgroundNosotros {
     background-color: #ffc107a6;
 }
-
 .backgroundNosotros img{
     width: 100%;
 }
-
 /* encabezados accordion */
-.accordion-button h2{
- font-size: 1.75rem;
-}
 
-.accordion-body{
-    font-size: 1.15rem;
-}
 
 .backgroundEnvio {
     background-image: url(../img/bg-nenafullscreen.jpg);
@@ -458,10 +434,7 @@ ol.lista-envio li span{
     color: rgb(72, 201, 236);
 }
 
-button.navbar-toggler {
-    border: 2px solid black;
-    border-radius: 8px;
-}
+
 
 
 
